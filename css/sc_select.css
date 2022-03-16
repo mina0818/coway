@@ -1,0 +1,14 @@
+#select_title{
+    visibility: visible;
+    position: static;
+}
+.select_wrap{
+    visibility: hidden;
+    position: absolute;
+}
+
+
+.select_wrap.show{
+    visibility: visible;
+    position: static;
+}
